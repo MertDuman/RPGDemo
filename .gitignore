@@ -1,6 +1,9 @@
 # Assets folder which contains StarterContent
 /Content/Assets/
 
+# Started content
+/Content/StarterContent/
+
 # Visual Studio 2015 user specific files
 .vs/
 
